@@ -20,7 +20,7 @@ First things first, you need to download the repository. Don't worry, no incanta
 1. **Open your terminal** (it's the muggle version of a wizard's wand).
 2. Type the following spell... uh, command:
     ```bash
-    git clone https://github.com/YourMagicalRepo/magic-course.git
+    git clone git@github.com:pugud/Magic-Spells-of-Delicious-in-Dungeon.git
     ```
 3. Press `Enter` and watch the magic happen as the repository appears on your computer.
 
